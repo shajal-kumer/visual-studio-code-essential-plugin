@@ -9,6 +9,8 @@
     vi) Guids
     vii) CSS peek
     viii) Sublime Text keymap and settings importer
+    ix) Path Intellisense 
+    x) Auto Rename Tag
     
 ### Theme
     i) Theme - oceanic Next
