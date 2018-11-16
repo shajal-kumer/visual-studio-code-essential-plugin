@@ -6,7 +6,7 @@
     iii) Prettier - code formatter
     iv) Live server
     v) Highlight Matching tag
-    vi) Guids
+    vi) Guides
     vii) CSS peek
     viii) Sublime Text keymap and settings importer
     ix) Path Intellisense 
