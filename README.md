@@ -11,6 +11,9 @@
     viii) Sublime Text keymap and settings importer
     ix) Path Intellisense 
     x) Auto Rename Tag
+    xi) Live Sass Compiler
+    xii) HTML CSS Support
+
     
 ### Theme
     i) Theme - oceanic Next
@@ -21,6 +24,8 @@
     ii) Jshint
     iii) Simple react snippets
     iv) Bracket pair colorizer
+    v) JavaScript (ES6) code snippets
+
 
 ### Python
     i) Python
