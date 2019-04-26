@@ -25,6 +25,7 @@
     iii) Simple react snippets
     iv) Bracket pair colorizer
     v) JavaScript (ES6) code snippets
+    vi) Quokka.js
 
 
 ### Python
